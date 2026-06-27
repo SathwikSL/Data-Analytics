@@ -294,7 +294,7 @@ The project produces visualizations such as:
 
 GitHub: https://github.com/SathwikSL
 
-LinkedIn: https://linkedin.com/in/sathwik-s-l
+LinkedIn: https://www.linkedin.com/in/sathwik-s-l-657552386/
 
 Email: slsathwik@gmail.com
 
