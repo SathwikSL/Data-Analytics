@@ -231,7 +231,7 @@ The projects generate visualizations such as:
 
 # 👨‍💻 Author
 
-**Your Name**
+**Sathwik S L**
 
 GitHub: https://github.com/SathwikSl
 
