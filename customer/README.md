@@ -1,4 +1,4 @@
-````markdown
+
 # 🛍️ Customer Personality Analysis & Segmentation using Machine Learning
 
 ## 📖 Overview
@@ -393,8 +393,3 @@ This project demonstrates how to:
 GitHub: https://github.com/SathwikSL
 
 ---
-
-# ⭐ Support
-
-If you found this project useful, consider giving this repository a **⭐ Star** and feel free to contribute through issues or pull requests.
-````
