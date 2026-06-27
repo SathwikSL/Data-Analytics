@@ -198,12 +198,8 @@ import matplotlib.pyplot as plt
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sathwik S L**
 
 GitHub: https://github.com/SathwikSL
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, please ⭐ star this repository and share it with others!
