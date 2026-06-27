@@ -200,7 +200,7 @@ import matplotlib.pyplot as plt
 
 **Your Name**
 
-GitHub: https://github.com/SatheikSL
+GitHub: https://github.com/SathwikSL
 
 ---
 
